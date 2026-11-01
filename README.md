@@ -5,8 +5,8 @@ Leon Sandler, Independent Researcher — leonsandler@alumni.swinburne.edu — OR
 Code, tests, results and manuscript for *"A fail-safe permissive interlock against aircraft misfuelling: system concept, barrier-degradation model and
 Monte Carlo risk assessment,"* prepared for **The Aeronautical Journal** (Cambridge University Press, Research Article).
 
-Archived on Zenodo: software doi:[10.5281/zenodo.23861810](https://doi.org/10.5281/zenodo.23861810) (version 2.0.0), manuscript preprint
-doi:[10.5281/zenodo.23861808](https://doi.org/10.5281/zenodo.23861808).
+Archived on Zenodo: software doi:[10.5281/zenodo.23861809](https://doi.org/10.5281/zenodo.23861809) (all versions; version 2.0.0 is
+10.5281/zenodo.23861810), manuscript preprint doi:[10.5281/zenodo.23861807](https://doi.org/10.5281/zenodo.23861807) (all versions).
 
 ## What it does
 
@@ -55,6 +55,8 @@ manuscript/              Misfuelling_Interlock_Aeronautical_Journal_Manuscript_v
 
 ## Versions
 
+* **v2.0.1** (2026-11-01) — manuscript language edit (no space before %, 'approximately', plain verbs; the journal's British spelling and spaced en
+  dashes kept); concept DOIs cited in the manuscript and cover letter. Code unchanged.
 * **v2.0.0** (2026-11-01) — first public release. Start and continuous-flow permission separated (Table 1, Fig. 2); fault tree and failure-modes table;
   event-tree derivation of the common-cause hazard and dependence experiments; 5,000-replicate ensembles with convergence, Wilson intervals, variance
   decomposition and prior-robustness; feedback / restoration phase diagram; virtual fault-injection campaign; break-even frontier.

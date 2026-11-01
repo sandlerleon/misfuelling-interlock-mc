@@ -5,8 +5,8 @@ authors:
   - family-names: Sandler
     given-names: Leon
     orcid: "https://orcid.org/0009-0007-4584-808X"
-version: "2.0.0"
-doi: 10.5281/zenodo.23861810
+version: "2.0.1"
+doi: 10.5281/zenodo.23861809
 date-released: "2026-11-01"
 license: MIT
 repository-code: "https://github.com/sandlerleon/misfuelling-interlock-mc"
