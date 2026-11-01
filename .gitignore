@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+out/
+out_repro/
+misfuel_out*/
+*_rub.docx
+manuscript/~$*

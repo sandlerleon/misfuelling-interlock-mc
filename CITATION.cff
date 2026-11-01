@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "interlock_mc: barrier-integrity Monte Carlo for a laser-scanned aircraft-fuelling permissive interlock"
+authors:
+  - family-names: Sandler
+    given-names: Leon
+    orcid: "https://orcid.org/0009-0007-4584-808X"
+version: "2.0.0"
+doi: 10.5281/zenodo.23861810
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/sandlerleon/misfuelling-interlock-mc"
